@@ -1,0 +1,97 @@
+.character-display {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 25px;
+  margin: 20px 0;
+  position: relative;
+}
+
+.character {
+  font-size: 6rem;
+  font-weight: bold;
+  color: #333;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 240px;
+  height: 240px;
+  background-color: #f9f9f9;
+  border-radius: 15px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+  transition: all 0.4s;
+  position: relative;
+  overflow: hidden;
+}
+
+.character::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(135deg, rgba(255,255,255,0.3) 0%, rgba(255,255,255,0) 50%);
+  z-index: 1;
+  border-radius: 15px;
+}
+
+.character:hover {
+  transform: scale(1.05) translateY(-5px);
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.15);
+}
+
+.audio-button {
+  background-color: #4caf50;
+  border: none;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: all 0.3s;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  position: relative;
+  z-index: 2;
+}
+
+.audio-button:hover {
+  background-color: #388e3c;
+  transform: scale(1.1) translateY(-3px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+}
+
+.audio-button:active {
+  transform: scale(0.95);
+}
+
+.audio-button svg {
+  width: 30px;
+  height: 30px;
+  color: white;
+}
+
+@media (max-width: 600px) {
+  .character-display {
+    flex-direction: column;
+    gap: 15px;
+  }
+  
+  .character {
+    font-size: 4.5rem;
+    width: 180px;
+    height: 180px;
+  }
+  
+  .audio-button {
+    width: 50px;
+    height: 50px;
+  }
+  
+  .audio-button svg {
+    width: 25px;
+    height: 25px;
+  }
+} 

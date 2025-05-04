@@ -1,0 +1,67 @@
+.result-feedback {
+  padding: 20px;
+  border-radius: 12px;
+  font-size: 1.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+  animation: fadeIn 0.5s ease-in-out;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08);
+  margin: 15px 0;
+}
+
+.result-feedback.correct {
+  background-color: #e8f5e9;
+  color: #2e7d32;
+  border: 1px solid #a5d6a7;
+}
+
+.result-feedback.wrong {
+  background-color: #ffebee;
+  color: #c62828;
+  border: 1px solid #ef9a9a;
+}
+
+.result-feedback .icon {
+  font-size: 2rem;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+.result-feedback.correct .icon {
+  background-color: #4caf50;
+  color: white;
+}
+
+.result-feedback.wrong .icon {
+  background-color: #f44336;
+  color: white;
+}
+
+.result-feedback .message {
+  flex: 1;
+  line-height: 1.4;
+}
+
+.result-feedback strong {
+  font-size: 1.3rem;
+  border-bottom: 2px solid currentColor;
+  padding-bottom: 2px;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+} 

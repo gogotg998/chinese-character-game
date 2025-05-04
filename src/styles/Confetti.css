@@ -1,0 +1,53 @@
+.confetti-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: 1000;
+  overflow: hidden;
+}
+
+.confetti-piece {
+  position: absolute;
+  width: 8px;
+  height: 16px;
+  background-color: #f44336; /* 默认颜色，会被JS覆盖 */
+  border-radius: 0;
+  opacity: 0.8;
+  animation: confetti-fade-in 0.5s ease-out;
+}
+
+@keyframes confetti-fade-in {
+  0% {
+    transform: scale(0) rotate(0deg);
+    opacity: 0;
+  }
+  100% {
+    transform: scale(1) rotate(360deg);
+    opacity: 0.8;
+  }
+}
+
+/* 让一部分彩带成为圆形 */
+.confetti-piece:nth-child(3n) {
+  border-radius: 50%;
+  width: 12px;
+  height: 12px;
+}
+
+/* 让一部分彩带成为矩形 */
+.confetti-piece:nth-child(5n) {
+  width: 10px;
+  height: 10px;
+}
+
+/* 一些彩带有不同的阴影效果 */
+.confetti-piece:nth-child(7n) {
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.7);
+}
+
+.confetti-piece:nth-child(11n) {
+  filter: brightness(1.2) drop-shadow(0 0 5px rgba(255, 255, 255, 0.5));
+} 

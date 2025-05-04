@@ -1,46 +1,53 @@
-# Getting Started with Create React App
+# 汉字认字游戏
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+这是一个基于React的汉字认字游戏，帮助用户学习汉字拼音。
 
-## Available Scripts
+## 功能特点
 
-In the project directory, you can run:
+- 用户可以选择题目数量（5, 10, 15题）
+- 显示汉字或词组，用户需要输入正确的拼音（不需要音调）
+- 带有语音朗读功能，点击按钮即可听到汉字的发音
+- 美观现代的UI设计，良好的移动端适配
+- 显示答题进度和最终得分
 
-### `npm start`
+## 运行项目
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### 安装依赖
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+```bash
+npm install
+```
 
-### `npm test`
+### 开发模式运行
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```bash
+npm start
+```
 
-### `npm run build`
+### 构建生产版本
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```bash
+npm run build
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 自定义字库
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+字库数据存储在`src/data/characters.json`文件中，您可以根据需要添加或修改汉字和词组。每个条目应包含以下字段：
 
-### `npm run eject`
+- `character`: 要显示的汉字或词组
+- `pinyin`: 对应的拼音（无音调）
+- `audio`: 音频文件名（暂未使用，目前使用浏览器的语音合成API）
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## 技术栈
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- React
+- TypeScript
+- CSS3
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## 后续改进计划
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+- 添加实际音频文件
+- 支持难度级别
+- 添加更多的汉字和词组
+- 用户自定义题库功能
+- 成绩统计和历史记录
