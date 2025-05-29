@@ -938,5 +938,1490 @@
     "character": "晚上好",
     "pinyin": "wanshanghao",
     "audio": "wanshanghao.mp3"
+  },
+  {
+    "character": "科技",
+    "pinyin": "keji",
+    "audio": "keji.mp3"
+  },
+  {
+    "character": "环保",
+    "pinyin": "huanbao",
+    "audio": "huanbao.mp3"
+  },
+  {
+    "character": "发展",
+    "pinyin": "fazhan",
+    "audio": "fazhan.mp3"
+  },
+  {
+    "character": "经济",
+    "pinyin": "jingji",
+    "audio": "jingji.mp3"
+  },
+  {
+    "character": "文化",
+    "pinyin": "wenhua",
+    "audio": "wenhua.mp3"
+  },
+  {
+    "character": "历史",
+    "pinyin": "lishi",
+    "audio": "lishi.mp3"
+  },
+  {
+    "character": "政治",
+    "pinyin": "zhengzhi",
+    "audio": "zhengzhi.mp3"
+  },
+  {
+    "character": "社会",
+    "pinyin": "shehui",
+    "audio": "shehui.mp3"
+  },
+  {
+    "character": "教育",
+    "pinyin": "jiaoyu",
+    "audio": "jiaoyu.mp3"
+  },
+  {
+    "character": "健康",
+    "pinyin": "jiankang",
+    "audio": "jiankang.mp3"
+  },
+  {
+    "character": "锻炼",
+    "pinyin": "duanlian",
+    "audio": "duanlian.mp3"
+  },
+  {
+    "character": "运动",
+    "pinyin": "yundong",
+    "audio": "yundong.mp3"
+  },
+  {
+    "character": "饮食",
+    "pinyin": "yinshi",
+    "audio": "yinshi.mp3"
+  },
+  {
+    "character": "交通",
+    "pinyin": "jiaotong",
+    "audio": "jiaotong.mp3"
+  },
+  {
+    "character": "旅游",
+    "pinyin": "lvyou",
+    "audio": "lvyou.mp3"
+  },
+  {
+    "character": "地理",
+    "pinyin": "dili",
+    "audio": "dili.mp3"
+  },
+  {
+    "character": "气候",
+    "pinyin": "qihou",
+    "audio": "qihou.mp3"
+  },
+  {
+    "character": "生态",
+    "pinyin": "shengtai",
+    "audio": "shengtai.mp3"
+  },
+  {
+    "character": "职业",
+    "pinyin": "zhiye",
+    "audio": "zhiye.mp3"
+  },
+  {
+    "character": "工作",
+    "pinyin": "gongzuo",
+    "audio": "gongzuo.mp3"
+  },
+  {
+    "character": "目标",
+    "pinyin": "mubiao",
+    "audio": "mubiao.mp3"
+  },
+  {
+    "character": "成功",
+    "pinyin": "chenggong",
+    "audio": "chenggong.mp3"
+  },
+  {
+    "character": "失败",
+    "pinyin": "shibai",
+    "audio": "shibai.mp3"
+  },
+  {
+    "character": "挑战",
+    "pinyin": "tiaozhan",
+    "audio": "tiaozhan.mp3"
+  },
+  {
+    "character": "机会",
+    "pinyin": "jihui",
+    "audio": "jihui.mp3"
+  },
+  {
+    "character": "思考",
+    "pinyin": "sikao",
+    "audio": "sikao.mp3"
+  },
+  {
+    "character": "创新",
+    "pinyin": "chuangxin",
+    "audio": "chuangxin.mp3"
+  },
+  {
+    "character": "问题",
+    "pinyin": "wenti",
+    "audio": "wenti.mp3"
+  },
+  {
+    "character": "解决",
+    "pinyin": "jiejue",
+    "audio": "jiejue.mp3"
+  },
+  {
+    "character": "分析",
+    "pinyin": "fenxi",
+    "audio": "fenxi.mp3"
+  },
+  {
+    "character": "研究",
+    "pinyin": "yanjiu",
+    "audio": "yanjiu.mp3"
+  },
+  {
+    "character": "决定",
+    "pinyin": "jueding",
+    "audio": "jueding.mp3"
+  },
+  {
+    "character": "计划",
+    "pinyin": "jihua",
+    "audio": "jihua.mp3"
+  },
+  {
+    "character": "未来",
+    "pinyin": "weilai",
+    "audio": "weilai.mp3"
+  },
+  {
+    "character": "网络",
+    "pinyin": "wangluo",
+    "audio": "wangluo.mp3"
+  },
+  {
+    "character": "通信",
+    "pinyin": "tongxin",
+    "audio": "tongxin.mp3"
+  },
+  {
+    "character": "智能",
+    "pinyin": "zhineng",
+    "audio": "zhineng.mp3"
+  },
+  {
+    "character": "数据",
+    "pinyin": "shuju",
+    "audio": "shuju.mp3"
+  },
+  {
+    "character": "信息",
+    "pinyin": "xinxi",
+    "audio": "xinxi.mp3"
+  },
+  {
+    "character": "资源",
+    "pinyin": "ziyuan",
+    "audio": "ziyuan.mp3"
+  },
+  {
+    "character": "能源",
+    "pinyin": "nengyuan",
+    "audio": "nengyuan.mp3"
+  },
+  {
+    "character": "节约",
+    "pinyin": "jieyue",
+    "audio": "jieyue.mp3"
+  },
+  {
+    "character": "保护",
+    "pinyin": "baohu",
+    "audio": "baohu.mp3"
+  },
+  {
+    "character": "责任",
+    "pinyin": "zeren",
+    "audio": "zeren.mp3"
+  },
+  {
+    "character": "合作",
+    "pinyin": "hezuo",
+    "audio": "hezuo.mp3"
+  },
+  {
+    "character": "交流",
+    "pinyin": "jiaoliu",
+    "audio": "jiaoliu.mp3"
+  },
+  {
+    "character": "沟通",
+    "pinyin": "goutong",
+    "audio": "goutong.mp3"
+  },
+  {
+    "character": "学习",
+    "pinyin": "xuexi",
+    "audio": "xuexi.mp3"
+  },
+  {
+    "character": "知识",
+    "pinyin": "zhishi",
+    "audio": "zhishi.mp3"
+  },
+  {
+    "character": "技能",
+    "pinyin": "jineng",
+    "audio": "jineng.mp3"
+  },
+  {
+    "character": "能力",
+    "pinyin": "nengli",
+    "audio": "nengli.mp3"
+  },
+  {
+    "character": "天气",
+    "pinyin": "tianqi",
+    "audio": "tianqi.mp3"
+  },
+  {
+    "character": "阳光",
+    "pinyin": "yangguang",
+    "audio": "yangguang.mp3"
+  },
+  {
+    "character": "雨水",
+    "pinyin": "yushui",
+    "audio": "yushui.mp3"
+  },
+  {
+    "character": "风暴",
+    "pinyin": "fengbao",
+    "audio": "fengbao.mp3"
+  },
+  {
+    "character": "暴雨",
+    "pinyin": "baoyu",
+    "audio": "baoyu.mp3"
+  },
+  {
+    "character": "雪花",
+    "pinyin": "xuehua",
+    "audio": "xuehua.mp3"
+  },
+  {
+    "character": "冰雹",
+    "pinyin": "bingbao",
+    "audio": "bingbao.mp3"
+  },
+  {
+    "character": "台风",
+    "pinyin": "taifeng",
+    "audio": "taifeng.mp3"
+  },
+  {
+    "character": "雾霾",
+    "pinyin": "wumai",
+    "audio": "wumai.mp3"
+  },
+  {
+    "character": "春天",
+    "pinyin": "chuntian",
+    "audio": "chuntian.mp3"
+  },
+  {
+    "character": "夏天",
+    "pinyin": "xiatian",
+    "audio": "xiatian.mp3"
+  },
+  {
+    "character": "秋天",
+    "pinyin": "qiutian",
+    "audio": "qiutian.mp3"
+  },
+  {
+    "character": "冬天",
+    "pinyin": "dongtian",
+    "audio": "dongtian.mp3"
+  },
+  {
+    "character": "季节",
+    "pinyin": "jijie",
+    "audio": "jijie.mp3"
+  },
+  {
+    "character": "城市",
+    "pinyin": "chengshi",
+    "audio": "chengshi.mp3"
+  },
+  {
+    "character": "乡村",
+    "pinyin": "xiangcun",
+    "audio": "xiangcun.mp3"
+  },
+  {
+    "character": "街道",
+    "pinyin": "jiedao",
+    "audio": "jiedao.mp3"
+  },
+  {
+    "character": "建筑",
+    "pinyin": "jianzhu",
+    "audio": "jianzhu.mp3"
+  },
+  {
+    "character": "公园",
+    "pinyin": "gongyuan",
+    "audio": "gongyuan.mp3"
+  },
+  {
+    "character": "超市",
+    "pinyin": "chaoshi",
+    "audio": "chaoshi.mp3"
+  },
+  {
+    "character": "医院",
+    "pinyin": "yiyuan",
+    "audio": "yiyuan.mp3"
+  },
+  {
+    "character": "学校",
+    "pinyin": "xuexiao",
+    "audio": "xuexiao.mp3"
+  },
+  {
+    "character": "银行",
+    "pinyin": "yinhang",
+    "audio": "yinhang.mp3"
+  },
+  {
+    "character": "餐厅",
+    "pinyin": "canting",
+    "audio": "canting.mp3"
+  },
+  {
+    "character": "图书馆",
+    "pinyin": "tushuguan",
+    "audio": "tushuguan.mp3"
+  },
+  {
+    "character": "博物馆",
+    "pinyin": "bowuguan",
+    "audio": "bowuguan.mp3"
+  },
+  {
+    "character": "体育馆",
+    "pinyin": "tiyuguan",
+    "audio": "tiyuguan.mp3"
+  },
+  {
+    "character": "动物园",
+    "pinyin": "dongwuyuan",
+    "audio": "dongwuyuan.mp3"
+  },
+  {
+    "character": "植物园",
+    "pinyin": "zhiwuyuan",
+    "audio": "zhiwuyuan.mp3"
+  },
+  {
+    "character": "音乐",
+    "pinyin": "yinyue",
+    "audio": "yinyue.mp3"
+  },
+  {
+    "character": "舞蹈",
+    "pinyin": "wudao",
+    "audio": "wudao.mp3"
+  },
+  {
+    "character": "绘画",
+    "pinyin": "huihua",
+    "audio": "huihua.mp3"
+  },
+  {
+    "character": "电影",
+    "pinyin": "dianying",
+    "audio": "dianying.mp3"
+  },
+  {
+    "character": "小说",
+    "pinyin": "xiaoshuo",
+    "audio": "xiaoshuo.mp3"
+  },
+  {
+    "character": "诗歌",
+    "pinyin": "shige",
+    "audio": "shige.mp3"
+  },
+  {
+    "character": "表演",
+    "pinyin": "biaoyan",
+    "audio": "biaoyan.mp3"
+  },
+  {
+    "character": "游戏",
+    "pinyin": "youxi",
+    "audio": "youxi.mp3"
+  },
+  {
+    "character": "娱乐",
+    "pinyin": "yule",
+    "audio": "yule.mp3"
+  },
+  {
+    "character": "足球",
+    "pinyin": "zuqiu",
+    "audio": "zuqiu.mp3"
+  },
+  {
+    "character": "篮球",
+    "pinyin": "lanqiu",
+    "audio": "lanqiu.mp3"
+  },
+  {
+    "character": "排球",
+    "pinyin": "paiqiu",
+    "audio": "paiqiu.mp3"
+  },
+  {
+    "character": "网球",
+    "pinyin": "wangqiu",
+    "audio": "wangqiu.mp3"
+  },
+  {
+    "character": "乒乓球",
+    "pinyin": "pingpangqiu",
+    "audio": "pingpangqiu.mp3"
+  },
+  {
+    "character": "游泳",
+    "pinyin": "youyong",
+    "audio": "youyong.mp3"
+  },
+  {
+    "character": "滑冰",
+    "pinyin": "huabing",
+    "audio": "huabing.mp3"
+  },
+  {
+    "character": "爬山",
+    "pinyin": "pashan",
+    "audio": "pashan.mp3"
+  },
+  {
+    "character": "健身",
+    "pinyin": "jianshen",
+    "audio": "jianshen.mp3"
+  },
+  {
+    "character": "跆拳道",
+    "pinyin": "taiquandao",
+    "audio": "taiquandao.mp3"
+  },
+  {
+    "character": "武术",
+    "pinyin": "wushu",
+    "audio": "wushu.mp3"
+  },
+  {
+    "character": "心情",
+    "pinyin": "xinqing",
+    "audio": "xinqing.mp3"
+  },
+  {
+    "character": "快乐",
+    "pinyin": "kuaile",
+    "audio": "kuaile.mp3"
+  },
+  {
+    "character": "悲伤",
+    "pinyin": "beishang",
+    "audio": "beishang.mp3"
+  },
+  {
+    "character": "紧张",
+    "pinyin": "jinzhang",
+    "audio": "jinzhang.mp3"
+  },
+  {
+    "character": "焦虑",
+    "pinyin": "jaolu",
+    "audio": "jaolu.mp3"
+  },
+  {
+    "character": "勇敢",
+    "pinyin": "yonggan",
+    "audio": "yonggan.mp3"
+  },
+  {
+    "character": "聪明",
+    "pinyin": "congming",
+    "audio": "congming.mp3"
+  },
+  {
+    "character": "善良",
+    "pinyin": "shanliang",
+    "audio": "shanliang.mp3"
+  },
+  {
+    "character": "诚实",
+    "pinyin": "chengshi",
+    "audio": "chengshi.mp3"
+  },
+  {
+    "character": "谦虚",
+    "pinyin": "qianxu",
+    "audio": "qianxu.mp3"
+  },
+  {
+    "character": "自信",
+    "pinyin": "zixin",
+    "audio": "zixin.mp3"
+  },
+  {
+    "character": "努力",
+    "pinyin": "nuli",
+    "audio": "nuli.mp3"
+  },
+  {
+    "character": "进步",
+    "pinyin": "jinbu",
+    "audio": "jinbu.mp3"
+  },
+  {
+    "character": "退步",
+    "pinyin": "tuibu",
+    "audio": "tuibu.mp3"
+  },
+  {
+    "character": "进展",
+    "pinyin": "jinzhan",
+    "audio": "jinzhan.mp3"
+  },
+  {
+    "character": "改善",
+    "pinyin": "gaishan",
+    "audio": "gaishan.mp3"
+  },
+  {
+    "character": "改变",
+    "pinyin": "gaibian",
+    "audio": "gaibian.mp3"
+  },
+  {
+    "character": "变化",
+    "pinyin": "bianhua",
+    "audio": "bianhua.mp3"
+  },
+  {
+    "character": "发现",
+    "pinyin": "faxian",
+    "audio": "faxian.mp3"
+  },
+  {
+    "character": "发明",
+    "pinyin": "faming",
+    "audio": "faming.mp3"
+  },
+  {
+    "character": "创造",
+    "pinyin": "chuangzao",
+    "audio": "chuangzao.mp3"
+  },
+  {
+    "character": "建设",
+    "pinyin": "jianshe",
+    "audio": "jianshe.mp3"
+  },
+  {
+    "character": "破坏",
+    "pinyin": "pohuai",
+    "audio": "pohuai.mp3"
+  },
+  {
+    "character": "修理",
+    "pinyin": "xiuli",
+    "audio": "xiuli.mp3"
+  },
+  {
+    "character": "安装",
+    "pinyin": "anzhuang",
+    "audio": "anzhuang.mp3"
+  },
+  {
+    "character": "操作",
+    "pinyin": "caozuo",
+    "audio": "caozuo.mp3"
+  },
+  {
+    "character": "使用",
+    "pinyin": "shiyong",
+    "audio": "shiyong.mp3"
+  },
+  {
+    "character": "利用",
+    "pinyin": "liyong",
+    "audio": "liyong.mp3"
+  },
+  {
+    "character": "浪费",
+    "pinyin": "langfei",
+    "audio": "langfei.mp3"
+  },
+  {
+    "character": "节省",
+    "pinyin": "jiesheng",
+    "audio": "jiesheng.mp3"
+  },
+  {
+    "character": "花费",
+    "pinyin": "huafei",
+    "audio": "huafei.mp3"
+  },
+  {
+    "character": "费用",
+    "pinyin": "feiyong",
+    "audio": "feiyong.mp3"
+  },
+  {
+    "character": "价格",
+    "pinyin": "jiage",
+    "audio": "jiage.mp3"
+  },
+  {
+    "character": "便宜",
+    "pinyin": "pianyi",
+    "audio": "pianyi.mp3"
+  },
+  {
+    "character": "昂贵",
+    "pinyin": "anggui",
+    "audio": "anggui.mp3"
+  },
+  {
+    "character": "购买",
+    "pinyin": "goumai",
+    "audio": "goumai.mp3"
+  },
+  {
+    "character": "出售",
+    "pinyin": "chushou",
+    "audio": "chushou.mp3"
+  },
+  {
+    "character": "交易",
+    "pinyin": "jiaoyi",
+    "audio": "jiaoyi.mp3"
+  },
+  {
+    "character": "市场",
+    "pinyin": "shichang",
+    "audio": "shichang.mp3"
+  },
+  {
+    "character": "商店",
+    "pinyin": "shangdian",
+    "audio": "shangdian.mp3"
+  },
+  {
+    "character": "商品",
+    "pinyin": "shangpin",
+    "audio": "shangpin.mp3"
+  },
+  {
+    "character": "产品",
+    "pinyin": "chanpin",
+    "audio": "chanpin.mp3"
+  },
+  {
+    "character": "质量",
+    "pinyin": "zhiliang",
+    "audio": "zhiliang.mp3"
+  },
+  {
+    "character": "品质",
+    "pinyin": "pinzhi",
+    "audio": "pinzhi.mp3"
+  },
+  {
+    "character": "数量",
+    "pinyin": "shuliang",
+    "audio": "shuliang.mp3"
+  },
+  {
+    "character": "重量",
+    "pinyin": "zhongliang",
+    "audio": "zhongliang.mp3"
+  },
+  {
+    "character": "长度",
+    "pinyin": "changdu",
+    "audio": "changdu.mp3"
+  },
+  {
+    "character": "高度",
+    "pinyin": "gaodu",
+    "audio": "gaodu.mp3"
+  },
+  {
+    "character": "宽度",
+    "pinyin": "kuandu",
+    "audio": "kuandu.mp3"
+  },
+  {
+    "character": "深度",
+    "pinyin": "shendu",
+    "audio": "shendu.mp3"
+  },
+  {
+    "character": "速度",
+    "pinyin": "sudu",
+    "audio": "sudu.mp3"
+  },
+  {
+    "character": "温度",
+    "pinyin": "wendu",
+    "audio": "wendu.mp3"
+  },
+  {
+    "character": "密度",
+    "pinyin": "midu",
+    "audio": "midu.mp3"
+  },
+  {
+    "character": "角度",
+    "pinyin": "jiaodu",
+    "audio": "jiaodu.mp3"
+  },
+  {
+    "character": "距离",
+    "pinyin": "juli",
+    "audio": "juli.mp3"
+  },
+  {
+    "character": "方向",
+    "pinyin": "fangxiang",
+    "audio": "fangxiang.mp3"
+  },
+  {
+    "character": "位置",
+    "pinyin": "weizhi",
+    "audio": "weizhi.mp3"
+  },
+  {
+    "character": "地方",
+    "pinyin": "difang",
+    "audio": "difang.mp3"
+  },
+  {
+    "character": "空间",
+    "pinyin": "kongjian",
+    "audio": "kongjian.mp3"
+  },
+  {
+    "character": "房间",
+    "pinyin": "fangjian",
+    "audio": "fangjian.mp3"
+  },
+  {
+    "character": "客厅",
+    "pinyin": "keting",
+    "audio": "keting.mp3"
+  },
+  {
+    "character": "卧室",
+    "pinyin": "woshi",
+    "audio": "woshi.mp3"
+  },
+  {
+    "character": "厨房",
+    "pinyin": "chufang",
+    "audio": "chufang.mp3"
+  },
+  {
+    "character": "厕所",
+    "pinyin": "cesuo",
+    "audio": "cesuo.mp3"
+  },
+  {
+    "character": "阳台",
+    "pinyin": "yangtai",
+    "audio": "yangtai.mp3"
+  },
+  {
+    "character": "院子",
+    "pinyin": "yuanzi",
+    "audio": "yuanzi.mp3"
+  },
+  {
+    "character": "花园",
+    "pinyin": "huayuan",
+    "audio": "huayuan.mp3"
+  },
+  {
+    "character": "草地",
+    "pinyin": "caodi",
+    "audio": "caodi.mp3"
+  },
+  {
+    "character": "树木",
+    "pinyin": "shumu",
+    "audio": "shumu.mp3"
+  },
+  {
+    "character": "花朵",
+    "pinyin": "huaduo",
+    "audio": "huaduo.mp3"
+  },
+  {
+    "character": "叶子",
+    "pinyin": "yezi",
+    "audio": "yezi.mp3"
+  },
+  {
+    "character": "根部",
+    "pinyin": "genbu",
+    "audio": "genbu.mp3"
+  },
+  {
+    "character": "种子",
+    "pinyin": "zhongzi",
+    "audio": "zhongzi.mp3"
+  },
+  {
+    "character": "果实",
+    "pinyin": "guoshi",
+    "audio": "guoshi.mp3"
+  },
+  {
+    "character": "颜色",
+    "pinyin": "yanse",
+    "audio": "yanse.mp3"
+  },
+  {
+    "character": "红色",
+    "pinyin": "hongse",
+    "audio": "hongse.mp3"
+  },
+  {
+    "character": "黄色",
+    "pinyin": "huangse",
+    "audio": "huangse.mp3"
+  },
+  {
+    "character": "蓝色",
+    "pinyin": "lanse",
+    "audio": "lanse.mp3"
+  },
+  {
+    "character": "绿色",
+    "pinyin": "lvse",
+    "audio": "lvse.mp3"
+  },
+  {
+    "character": "黑色",
+    "pinyin": "heise",
+    "audio": "heise.mp3"
+  },
+  {
+    "character": "白色",
+    "pinyin": "baise",
+    "audio": "baise.mp3"
+  },
+  {
+    "character": "灰色",
+    "pinyin": "huise",
+    "audio": "huise.mp3"
+  },
+  {
+    "character": "紫色",
+    "pinyin": "zise",
+    "audio": "zise.mp3"
+  },
+  {
+    "character": "橙色",
+    "pinyin": "chengse",
+    "audio": "chengse.mp3"
+  },
+  {
+    "character": "粉色",
+    "pinyin": "fense",
+    "audio": "fense.mp3"
+  },
+  {
+    "character": "材料",
+    "pinyin": "cailiao",
+    "audio": "cailiao.mp3"
+  },
+  {
+    "character": "金属",
+    "pinyin": "jinshu",
+    "audio": "jinshu.mp3"
+  },
+  {
+    "character": "木头",
+    "pinyin": "mutou",
+    "audio": "mutou.mp3"
+  },
+  {
+    "character": "石头",
+    "pinyin": "shitou",
+    "audio": "shitou.mp3"
+  },
+  {
+    "character": "玻璃",
+    "pinyin": "boli",
+    "audio": "boli.mp3"
+  },
+  {
+    "character": "塑料",
+    "pinyin": "suliao",
+    "audio": "suliao.mp3"
+  },
+  {
+    "character": "布料",
+    "pinyin": "buliao",
+    "audio": "buliao.mp3"
+  },
+  {
+    "character": "棉花",
+    "pinyin": "mianhua",
+    "audio": "mianhua.mp3"
+  },
+  {
+    "character": "丝绸",
+    "pinyin": "sichou",
+    "audio": "sichou.mp3"
+  },
+  {
+    "character": "皮革",
+    "pinyin": "pige",
+    "audio": "pige.mp3"
+  },
+  {
+    "character": "橡胶",
+    "pinyin": "xiangjiao",
+    "audio": "xiangjiao.mp3"
+  },
+  {
+    "character": "纸张",
+    "pinyin": "zhizhang",
+    "audio": "zhizhang.mp3"
+  },
+  {
+    "character": "工具",
+    "pinyin": "gongju",
+    "audio": "gongju.mp3"
+  },
+  {
+    "character": "机器",
+    "pinyin": "jiqi",
+    "audio": "jiqi.mp3"
+  },
+  {
+    "character": "设备",
+    "pinyin": "shebei",
+    "audio": "shebei.mp3"
+  },
+  {
+    "character": "装置",
+    "pinyin": "zhuangzhi",
+    "audio": "zhuangzhi.mp3"
+  },
+  {
+    "character": "仪器",
+    "pinyin": "yiqi",
+    "audio": "yiqi.mp3"
+  },
+  {
+    "character": "零件",
+    "pinyin": "lingjian",
+    "audio": "lingjian.mp3"
+  },
+  {
+    "character": "部件",
+    "pinyin": "bujian",
+    "audio": "bujian.mp3"
+  },
+  {
+    "character": "配件",
+    "pinyin": "peijian",
+    "audio": "peijian.mp3"
+  },
+  {
+    "character": "系统",
+    "pinyin": "xitong",
+    "audio": "xitong.mp3"
+  },
+  {
+    "character": "程序",
+    "pinyin": "chengxu",
+    "audio": "chengxu.mp3"
+  },
+  {
+    "character": "软件",
+    "pinyin": "ruanjian",
+    "audio": "ruanjian.mp3"
+  },
+  {
+    "character": "硬件",
+    "pinyin": "yingjian",
+    "audio": "yingjian.mp3"
+  },
+  {
+    "character": "应用",
+    "pinyin": "yingyong",
+    "audio": "yingyong.mp3"
+  },
+  {
+    "character": "功能",
+    "pinyin": "gongneng",
+    "audio": "gongneng.mp3"
+  },
+  {
+    "character": "特点",
+    "pinyin": "tedian",
+    "audio": "tedian.mp3"
+  },
+  {
+    "character": "优点",
+    "pinyin": "youdian",
+    "audio": "youdian.mp3"
+  },
+  {
+    "character": "缺点",
+    "pinyin": "quedian",
+    "audio": "quedian.mp3"
+  },
+  {
+    "character": "医生",
+    "pinyin": "yisheng",
+    "audio": "yisheng.mp3"
+  },
+  {
+    "character": "护士",
+    "pinyin": "hushi",
+    "audio": "hushi.mp3"
+  },
+  {
+    "character": "工程师",
+    "pinyin": "gongchengshi",
+    "audio": "gongchengshi.mp3"
+  },
+  {
+    "character": "律师",
+    "pinyin": "lvshi",
+    "audio": "lvshi.mp3"
+  },
+  {
+    "character": "会计",
+    "pinyin": "kuaiji",
+    "audio": "kuaiji.mp3"
+  },
+  {
+    "character": "司机",
+    "pinyin": "siji",
+    "audio": "siji.mp3"
+  },
+  {
+    "character": "厨师",
+    "pinyin": "chushi",
+    "audio": "chushi.mp3"
+  },
+  {
+    "character": "农民",
+    "pinyin": "nongmin",
+    "audio": "nongmin.mp3"
+  },
+  {
+    "character": "警察",
+    "pinyin": "jingcha",
+    "audio": "jingcha.mp3"
+  },
+  {
+    "character": "消防员",
+    "pinyin": "xiaofangyuan",
+    "audio": "xiaofangyuan.mp3"
+  },
+  {
+    "character": "建筑师",
+    "pinyin": "jianzhushi",
+    "audio": "jianzhushi.mp3"
+  },
+  {
+    "character": "设计师",
+    "pinyin": "shejishi",
+    "audio": "shejishi.mp3"
+  },
+  {
+    "character": "记者",
+    "pinyin": "jizhe",
+    "audio": "jizhe.mp3"
+  },
+  {
+    "character": "翻译",
+    "pinyin": "fanyi",
+    "audio": "fanyi.mp3"
+  },
+  {
+    "character": "导游",
+    "pinyin": "daoyou",
+    "audio": "daoyou.mp3"
+  },
+  {
+    "character": "运动员",
+    "pinyin": "yundongyuan",
+    "audio": "yundongyuan.mp3"
+  },
+  {
+    "character": "演员",
+    "pinyin": "yanyuan",
+    "audio": "yanyuan.mp3"
+  },
+  {
+    "character": "歌手",
+    "pinyin": "geshou",
+    "audio": "geshou.mp3"
+  },
+  {
+    "character": "画家",
+    "pinyin": "huajia",
+    "audio": "huajia.mp3"
+  },
+  {
+    "character": "作家",
+    "pinyin": "zuojia",
+    "audio": "zuojia.mp3"
+  },
+  {
+    "character": "科学家",
+    "pinyin": "kexuejia",
+    "audio": "kexuejia.mp3"
+  },
+  {
+    "character": "发烧",
+    "pinyin": "fashao",
+    "audio": "fashao.mp3"
+  },
+  {
+    "character": "感冒",
+    "pinyin": "ganmao",
+    "audio": "ganmao.mp3"
+  },
+  {
+    "character": "咳嗽",
+    "pinyin": "kesou",
+    "audio": "kesou.mp3"
+  },
+  {
+    "character": "头痛",
+    "pinyin": "touteng",
+    "audio": "touteng.mp3"
+  },
+  {
+    "character": "肚子疼",
+    "pinyin": "duzieng",
+    "audio": "duzieng.mp3"
+  },
+  {
+    "character": "牙疼",
+    "pinyin": "yateng",
+    "audio": "yateng.mp3"
+  },
+  {
+    "character": "疲劳",
+    "pinyin": "pilao",
+    "audio": "pilao.mp3"
+  },
+  {
+    "character": "困倦",
+    "pinyin": "kunjuan",
+    "audio": "kunjuan.mp3"
+  },
+  {
+    "character": "精神",
+    "pinyin": "jingshen",
+    "audio": "jingshen.mp3"
+  },
+  {
+    "character": "力气",
+    "pinyin": "liqi",
+    "audio": "liqi.mp3"
+  },
+  {
+    "character": "体重",
+    "pinyin": "tizhong",
+    "audio": "tizhong.mp3"
+  },
+  {
+    "character": "身高",
+    "pinyin": "shengao",
+    "audio": "shengao.mp3"
+  },
+  {
+    "character": "年龄",
+    "pinyin": "nianling",
+    "audio": "nianling.mp3"
+  },
+  {
+    "character": "性别",
+    "pinyin": "xingbie",
+    "audio": "xingbie.mp3"
+  },
+  {
+    "character": "民族",
+    "pinyin": "minzu",
+    "audio": "minzu.mp3"
+  },
+  {
+    "character": "国籍",
+    "pinyin": "guoji",
+    "audio": "guoji.mp3"
+  },
+  {
+    "character": "地址",
+    "pinyin": "dizhi",
+    "audio": "dizhi.mp3"
+  },
+  {
+    "character": "电话",
+    "pinyin": "dianhua",
+    "audio": "dianhua.mp3"
+  },
+  {
+    "character": "邮箱",
+    "pinyin": "youxiang",
+    "audio": "youxiang.mp3"
+  },
+  {
+    "character": "网站",
+    "pinyin": "wangzhan",
+    "audio": "wangzhan.mp3"
+  },
+  {
+    "character": "密码",
+    "pinyin": "mima",
+    "audio": "mima.mp3"
+  },
+  {
+    "character": "账号",
+    "pinyin": "zhanghao",
+    "audio": "zhanghao.mp3"
+  },
+  {
+    "character": "用户",
+    "pinyin": "yonghu",
+    "audio": "yonghu.mp3"
+  },
+  {
+    "character": "客户",
+    "pinyin": "kehu",
+    "audio": "kehu.mp3"
+  },
+  {
+    "character": "服务",
+    "pinyin": "fuwu",
+    "audio": "fuwu.mp3"
+  },
+  {
+    "character": "态度",
+    "pinyin": "taidu",
+    "audio": "taidu.mp3"
+  },
+  {
+    "character": "礼貌",
+    "pinyin": "limao",
+    "audio": "limao.mp3"
+  },
+  {
+    "character": "尊重",
+    "pinyin": "zunzhong",
+    "audio": "zunzhong.mp3"
+  },
+  {
+    "character": "理解",
+    "pinyin": "lijie",
+    "audio": "lijie.mp3"
+  },
+  {
+    "character": "支持",
+    "pinyin": "zhichi",
+    "audio": "zhichi.mp3"
+  },
+  {
+    "character": "反对",
+    "pinyin": "fandui",
+    "audio": "fandui.mp3"
+  },
+  {
+    "character": "同意",
+    "pinyin": "tongyi",
+    "audio": "tongyi.mp3"
+  },
+  {
+    "character": "拒绝",
+    "pinyin": "jujue",
+    "audio": "jujue.mp3"
+  },
+  {
+    "character": "接受",
+    "pinyin": "jieshou",
+    "audio": "jieshou.mp3"
+  },
+  {
+    "character": "选择",
+    "pinyin": "xuanze",
+    "audio": "xuanze.mp3"
+  },
+  {
+    "character": "决定",
+    "pinyin": "jueding",
+    "audio": "jueding.mp3"
+  },
+  {
+    "character": "建议",
+    "pinyin": "jianyi",
+    "audio": "jianyi.mp3"
+  },
+  {
+    "character": "意见",
+    "pinyin": "yijian",
+    "audio": "yijian.mp3"
+  },
+  {
+    "character": "观点",
+    "pinyin": "guandian",
+    "audio": "guandian.mp3"
+  },
+  {
+    "character": "看法",
+    "pinyin": "kanfa",
+    "audio": "kanfa.mp3"
+  },
+  {
+    "character": "想法",
+    "pinyin": "xiangfa",
+    "audio": "xiangfa.mp3"
+  },
+  {
+    "character": "主意",
+    "pinyin": "zhuyi",
+    "audio": "zhuyi.mp3"
+  },
+  {
+    "character": "办法",
+    "pinyin": "banfa",
+    "audio": "banfa.mp3"
+  },
+  {
+    "character": "方法",
+    "pinyin": "fangfa",
+    "audio": "fangfa.mp3"
+  },
+  {
+    "character": "技巧",
+    "pinyin": "jiqiao",
+    "audio": "jiqiao.mp3"
+  },
+  {
+    "character": "经验",
+    "pinyin": "jingyan",
+    "audio": "jingyan.mp3"
+  },
+  {
+    "character": "教训",
+    "pinyin": "jiaoxun",
+    "audio": "jiaoxun.mp3"
+  },
+  {
+    "character": "错误",
+    "pinyin": "cuowu",
+    "audio": "cuowu.mp3"
+  },
+  {
+    "character": "正确",
+    "pinyin": "zhengque",
+    "audio": "zhengque.mp3"
+  },
+  {
+    "character": "准确",
+    "pinyin": "zhunque",
+    "audio": "zhunque.mp3"
+  },
+  {
+    "character": "清楚",
+    "pinyin": "qingchu",
+    "audio": "qingchu.mp3"
+  },
+  {
+    "character": "明白",
+    "pinyin": "mingbai",
+    "audio": "mingbai.mp3"
+  },
+  {
+    "character": "糊涂",
+    "pinyin": "hutu",
+    "audio": "hutu.mp3"
+  },
+  {
+    "character": "模糊",
+    "pinyin": "mohu",
+    "audio": "mohu.mp3"
+  },
+  {
+    "character": "仔细",
+    "pinyin": "zixi",
+    "audio": "zixi.mp3"
+  },
+  {
+    "character": "马虎",
+    "pinyin": "mahu",
+    "audio": "mahu.mp3"
+  },
+  {
+    "character": "认真",
+    "pinyin": "renzhen",
+    "audio": "renzhen.mp3"
+  },
+  {
+    "character": "随便",
+    "pinyin": "suibian",
+    "audio": "suibian.mp3"
+  },
+  {
+    "character": "严格",
+    "pinyin": "yange",
+    "audio": "yange.mp3"
+  },
+  {
+    "character": "宽松",
+    "pinyin": "kuansong",
+    "audio": "kuansong.mp3"
+  },
+  {
+    "character": "紧张",
+    "pinyin": "jinzhang",
+    "audio": "jinzhang.mp3"
+  },
+  {
+    "character": "轻松",
+    "pinyin": "qingsong",
+    "audio": "qingsong.mp3"
   }
 ] 

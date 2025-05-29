@@ -10,9 +10,9 @@ import mediumCharactersData from './data/characters-medium.json';
 import hardCharactersData from './data/characters-hard.json';
 
 // 音效URL
-const CORRECT_SOUND_URL = 'https://assets.mixkit.co/sfx/preview/mixkit-correct-answer-tone-2870.mp3';
-const WRONG_SOUND_URL = 'https://assets.mixkit.co/sfx/preview/mixkit-wrong-answer-fail-notification-946.mp3';
-const GAME_COMPLETE_SOUND_URL = 'https://assets.mixkit.co/sfx/preview/mixkit-achievement-bell-600.mp3';
+const CORRECT_SOUND_URL = '/sounds/correct.mp3';
+const WRONG_SOUND_URL = '/sounds/wrong.mp3';
+const GAME_COMPLETE_SOUND_URL = '/sounds/complete.mp3';
 
 interface Character {
   character: string;
@@ -138,10 +138,14 @@ function App() {
     try {
       if (isCorrect && correctSoundRef.current) {
         correctSoundRef.current.currentTime = 0;
-        correctSoundRef.current.play();
+        correctSoundRef.current.play().catch(error => {
+          console.error('播放正确音效失败:', error);
+        });
       } else if (!isCorrect && wrongSoundRef.current) {
         wrongSoundRef.current.currentTime = 0;
-        wrongSoundRef.current.play();
+        wrongSoundRef.current.play().catch(error => {
+          console.error('播放错误音效失败:', error);
+        });
       }
     } catch (error) {
       console.error('播放音效失败', error);
@@ -156,7 +160,9 @@ function App() {
     try {
       if (completeGameSoundRef.current) {
         completeGameSoundRef.current.currentTime = 0;
-        completeGameSoundRef.current.play();
+        completeGameSoundRef.current.play().catch(error => {
+          console.error('播放游戏完成音效失败:', error);
+        });
       }
     } catch (error) {
       console.error('播放游戏完成音效失败', error);
